@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
     backgroundColor: COLORS.background,
   },
   topIllustration: {
+    // backgroundColor: "red",
     alignItems: "center",
     width: "100%",
   },
